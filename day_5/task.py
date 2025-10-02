@@ -1,6 +1,6 @@
 import random
 
-letters = ['a', 'b', 'c']
+letters = ['a', 'b', 'c', 'd']
 numbers = ['0', '1', '2']
 symbols = ['!', '#', '$']
 
